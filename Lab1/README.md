@@ -1,6 +1,9 @@
 Francisco Munoz
+
 SID: 861174271
+
 NETID: fmuno003
+
 email: fmuno003@ucr.edu
 
 CS014 - Lab 01
