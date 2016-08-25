@@ -28,6 +28,7 @@ secondPair function checks for the next value for the Fibonacci sequence that ha
 firstPair function checks for the next value for the Fibonnacci sequence that has not been used. For example, if the pair 2,0 has not been used the 2 will be used as the second number.
 
 remainingPairs function runs through the 2D vector to check if there are still remaining pairs that can be used in the Fibonacci sequence. For example, if the vector V.at(2).at(0) is set to 0, the pair 2,0 will be used next.
+
 --------------------------------------------------------------------------------
 
 The program starts off by asking the user to input a value for M, which will be the
